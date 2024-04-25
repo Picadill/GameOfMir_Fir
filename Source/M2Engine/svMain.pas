@@ -63,22 +63,13 @@ type
     MENU_CONTROL_REFSERVERCONFIG: TMenuItem;
     MENU_MANAGE_SYS: TMenuItem;
     Panel: TPanel;
-    Label1: TLabel;
-    Label2: TLabel;
-    Lbcheck: TLabel;
-    LbRunSocketTime: TLabel;
     LbRunTime: TLabel;
-    LbTimeCount: TLabel;
     LbUserCount: TLabel;
     MemStatus: TLabel;
-    LabelVersion: TLabel;
     LTotalRAM: TLabel;
-    LFreeRAM: TLabel;
     LTotalVirtual: TLabel;
-    LFreeVirtual: TLabel;
     LMemoryLoad: TLabel;
     GridGate: TStringGrid;
-    Label5: TLabel;
     Label20: TLabel;
     IdUDPClientLog: TIdUDPClient;
 
